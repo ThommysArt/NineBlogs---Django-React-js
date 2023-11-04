@@ -1,0 +1,23 @@
+Ça c'est pour les actions récurrentes des users
+
+1. User Accounts:
+allow users to create accounts to publish and manage their articles and blog content.
+
+2. Article Creation:
+Users can create articles using a rich text editor or other content creation tools.
+
+3. Article Management:
+Blog web applications also allow users to manage their articles, including editing, deleting, and archiving them.
+
+4. Author Profiles:
+Users can create author profiles to showcase their work and provide additional information about themselves.
+
+5. User Comments:
+Blog web applications often allow users to comment on articles and engage with other readers.
+
+6. Search Functionality:
+Blog web applications typically have search functionality to help users find articles and content.
+
+Maintenant je pensais aussi ajouter de l'audio accompagnant les écrits (en utilisant un texte to speech api) ainsi les permettre d'écouter tout en lisant.
+
+
